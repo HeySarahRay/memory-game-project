@@ -22,3 +22,6 @@ You can play the game here: https://codepen.io/blissophist/full/GGBaRz/
 
 Special shout out to everyone on Slack for helping me grasp this project bit by bit. Your generosity and kindness has no equal!
 # memory-game-project
+
+
+## Made in 20XX, A blissophist project.
